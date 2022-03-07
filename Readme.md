@@ -14,7 +14,7 @@ Skills: Ionic / Angular / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=timkovik)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timkovik&exclude=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timkovik&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=timkovik&show_icons=true&count_private=true)  
 
